@@ -9,10 +9,20 @@ To implement Principal Component Analysis (PCA) to reduce the dimensionality of 
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-1. 
-2. 
-3. 
-4. 
+1. Import required libraries and load the energy dataset.
+
+
+
+2.Preprocess the data by handling missing values and standardizing the features.
+
+
+
+3.Apply PCA to reduce the dimensionality of the dataset by selecting principal components.
+
+
+
+4.Transform the data into reduced dimensions and analyze the variance explained by each component
+ 
 
 ## Program:
 ```
@@ -47,7 +57,12 @@ plt.show()
 ```
 
 ## Output:
-![simple linear regression model for predicting the marks scored](sam.png)
+<img width="712" height="617" alt="image" src="https://github.com/user-attachments/assets/1a5888dd-52f8-436e-949a-f64426d53a59" />
+
+
+![WhatsApp Image 2026-03-28 at 3 48 39 PM](https://github.com/user-attachments/assets/3e58ff30-85e9-4b11-970a-baecee442186)
+
+
 
 
 ## Result:
